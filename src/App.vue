@@ -1,15 +1,19 @@
 <template>
-  <div>
-    App is here
-  </div>
+	<div>
+		<AppHeader></AppHeader>
+	</div>
 </template>
 
 <script>
-  export default {
-    name: 'App'
-  }
+import AppHeader from './components/AppHeader';
+
+	export default {
+		name: "App",
+		components: {
+			AppHeader
+		}
+	};
 </script>
 
 <style scoped>
-
 </style>
