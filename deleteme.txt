@@ -1,6 +1,0 @@
-Client Id
-babb973c651c765
-Client Secret
-50605c0ddb834067fc258ff26116ef400458d317
-
-https://api.imgur.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&response_type=REQUESTED_RESPONSE_TYPE&state=APPLICATION_STATE
